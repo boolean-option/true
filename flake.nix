@@ -1,0 +1,1 @@
+{ outputs = { ... }: { value = import ./true; }; }
